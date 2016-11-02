@@ -1,0 +1,180 @@
+{
+	"resources": [
+		{
+			"name": "bgImage",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egretIcon",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "g2_jpg",
+			"type": "image",
+			"url": "assets/g2.jpg"
+		},
+		{
+			"name": "g3_jpg",
+			"type": "image",
+			"url": "assets/g3.jpg"
+		},
+		{
+			"name": "g4_jpg",
+			"type": "image",
+			"url": "assets/g4.jpg"
+		},
+		{
+			"name": "1_jpg",
+			"type": "image",
+			"url": "assets/12/1.jpg"
+		},
+		{
+			"name": "10001_png",
+			"type": "image",
+			"url": "assets/12/战斗待机/10001.png"
+		},
+		{
+			"name": "10002_png",
+			"type": "image",
+			"url": "assets/12/战斗待机/10002.png"
+		},
+		{
+			"name": "10003_png",
+			"type": "image",
+			"url": "assets/12/战斗待机/10003.png"
+		},
+		{
+			"name": "10004_png",
+			"type": "image",
+			"url": "assets/12/战斗待机/10004.png"
+		},
+		{
+			"name": "10005_png",
+			"type": "image",
+			"url": "assets/12/战斗待机/10005.png"
+		},
+		{
+			"name": "10006_png",
+			"type": "image",
+			"url": "assets/12/战斗待机/10006.png"
+		},
+		{
+			"name": "10007_png",
+			"type": "image",
+			"url": "assets/12/战斗待机/10007.png"
+		},
+		{
+			"name": "10008_png",
+			"type": "image",
+			"url": "assets/12/战斗待机/10008.png"
+		},
+		{
+			"name": "10009_png",
+			"type": "image",
+			"url": "assets/12/战斗待机/10009.png"
+		},
+		{
+			"name": "10010_png",
+			"type": "image",
+			"url": "assets/12/战斗待机/10010.png"
+		},
+		{
+			"name": "100012_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10001.png"
+		},
+		{
+			"name": "100022_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10002.png"
+		},
+		{
+			"name": "100032_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10003.png"
+		},
+		{
+			"name": "100042_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10004.png"
+		},
+		{
+			"name": "100052_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10005.png"
+		},
+		{
+			"name": "100062_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10006.png"
+		},
+		{
+			"name": "100072_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10007.png"
+		},
+		{
+			"name": "100082_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10008.png"
+		},
+		{
+			"name": "100092_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10009.png"
+		},
+		{
+			"name": "100102_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10010.png"
+		},
+		{
+			"name": "10011_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10011.png"
+		},
+		{
+			"name": "10012_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10012.png"
+		},
+		{
+			"name": "10013_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10013.png"
+		},
+		{
+			"name": "10014_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10014.png"
+		},
+		{
+			"name": "10015_png",
+			"type": "image",
+			"url": "assets/12/野外走动/10015.png"
+		},
+		{
+			"name": "g1_png",
+			"type": "image",
+			"url": "assets/g1.png"
+		},
+		{
+			"name": "g5_jpg",
+			"type": "image",
+			"url": "assets/g5.jpg"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bgImage,egretIcon,g2_jpg,g3_jpg,g4_jpg,1_jpg,10001_png,10002_png,10003_png,10004_png,10005_png,10006_png,10007_png,10008_png,10009_png,10010_png,100012_png,100022_png,100032_png,100042_png,100052_png,100062_png,100072_png,100082_png,100092_png,100102_png,10011_png,10012_png,10013_png,10014_png,10015_png,g1_png,g5_jpg"
+		}
+	]
+}
